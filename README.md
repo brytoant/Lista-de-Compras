@@ -1,4 +1,4 @@
-# Lista de Compras
+# Lista de Compras Corrigida
 
 Projeto desenvolvido para a avaliação prática de Git, GitHub e GitFlow.
 
